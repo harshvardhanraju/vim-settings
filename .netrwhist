@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/dhivakar/work/projects/fitkid/fk_assessed/temp'
+let g:netrw_dirhist_2='/home/dhivakar/work/projects/fitkid/fk_web/routes/tocloud'
+let g:netrw_dirhist_3='/home/dhivakar/work/projects/fitkid/ghub/data/results/16-17/CBSE'
+let g:netrw_dirhist_4='/home/dhivakar/work/projects/fitkid/ghub/algo/prod/as_core/admin_crctns'
+let g:netrw_dirhist_5='/home/dhivakar/work/projects/fitkid/sl_git/algo/.git/hooks'
+let g:netrw_dirhist_6='/home/dhivakar/.space-vim/core'
