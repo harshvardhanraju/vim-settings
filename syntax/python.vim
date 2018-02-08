@@ -62,7 +62,7 @@ syn keyword pythonRepeat	for while
 syn keyword pythonConditional	if elif else
 syn keyword pythonOperator	and in is not or
 " AS will be a keyword in Python 3
-syn keyword pythonPreCondit	import from as
+syn keyword pythonPreCondit	import from as self
 syn keyword pythonTodo		TODO FIXME XXX contained
 
 " Decorators (new in Python 2.4)
